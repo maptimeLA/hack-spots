@@ -1,3 +1,8 @@
+# Hello MaptimeLA
+
+- Add spots to this [spreadsheet](https://docs.google.com/spreadsheets/d/1vLlsF5cvWkAGhbw1ZsJb_e5J_UXUc0PnNBjkMRMXmH4/pubhtml)
+- See it live [here](http://maptimela.github.io/hack-spots/)
+
 # Hi!
 
 ![screenshot](https://raw.github.com/jlord/hack-spots/gh-pages/img/hackspotsss.png)
