@@ -48,12 +48,10 @@
 
             <h3>Contribute!</h3>
             <div id="theNumberofSpots"></div>
-            <p>This website is hooked up to <a href="https://docs.google.com/spreadsheets/d/1hnfQcggYcBYimuO_UOMvwoOi_I9vUvFpkMt4wjrrpLE/edit?usp=sharing" target="_blank">this Google Spreadsheet</a>, which I've shared, so click and add your favorite hack spots to the bottom of the list! For the map you'll need to <strong>get the lat and long</strong> of the spot, you can get that <a href="http://www.latlong.net/" target="_blank">here</a>. The locating of these places is helpful, so please try to fill out all the columns.</p>
+            <p>This website is hooked up to <a href="https://docs.google.com/spreadsheets/d/1vLlsF5cvWkAGhbw1ZsJb_e5J_UXUc0PnNBjkMRMXmH4/edit?usp=sharings" target="_blank">this Google Spreadsheet</a>, which I've shared, so click and add your favorite  spots to the bottom of the list. For the map you'll need to <strong>get the lat and long</strong> of the spot, you can get that <a href="http://www.latlong.net/" target="_blank">here</a>. The locating of these places is helpful, so please try to fill out all the columns.</p>
 
-            <p>Besides being a list I've wanted to have, it's a fantastic (or I think so) way of using <a href="http://jlord.github.io/sheetsee.js" target="_blank">sheetsee.js</a>, which is a little JavaScript library I've been working on. Sheetsee.js helps you hook a Google Spreadsheet (awesome for data and collaboration!) to a website to make data more visual (maps, tables, charts).</p>
-
-            <h3>Fork-n-Go</h3>
-            <p>This is a work-in-progress example of a fork-n-go project - which means, there is just a <a href="https://github.com/jlord/hack-spots" target="_blank">gh-pages branch in GitHub</a> for this project so when you fork it, you've got a live and hosted website instantly. BAM! Just copy the spreadsheet headers and create your own spreadsheet, swap out the spreadsheet key in index.html and commit those changes. BAM! You've got a live and hosted site with a spreadsheet you control. More on the <a href="http://www.github.com/jlord/hack-spots" target="_blank">readme</a>.</p>
+            <h3>Thank you</h3>
+            <p><a href="http://jlord.github.io/sheetsee.js" target="_blank">sheetsee.js</a>, <a href="http://jlord.us/forkngo/">Fork-n-Go</a>, GitHub, Google Spreadshets</p>
         </div>
     </div><!-- end wrapper -->
 
@@ -73,13 +71,14 @@
             <p class="colorText">{{address}}<p>
             <p class="colorText">{{city}}{{#state}}, {{state}}{{/state}}{{#postcode}}, {{postcode}}{{/postcode}}</p>
             <ul>
-                <li><span class="category">Wifi:</span> {{wifipassword}}</li>
+                <li><span class="category">Wifi:</span> {{wifistrength}}</li>
                 <li><span class="category">Outlets:</span> {{outlets}}</li>
-                <li><span class="category">Couch:</span> {{couch}}</li>
-                <li><span class="category">Large Table:</span> {{largetable}}</li>
-                <li><span class="category">Outdoor Seating:</span> {{outdoorseating}}</li>
-                <li><span class="category">Brewing:</span> {{brewing}}</li>
+                <li><span class="category">Rooms:</span> {{rooms}}</li>
+                <li><span class="category">Tables:</span> {{worktables}}</li>
+                <li><span class="category">Kitchen:</span> {{kitchen}}</li>
+                <li><span class="category">Equipment:</span> {{equipment}}</li>
                 <li><span class="category">Contributed By:</span> <a href="http://www.twitter.com/{{contributerstwitter}}" target="_blank">@{{contributerstwitter}}</a></li>
+                <li><span class="category">Used By:</span> <a href="http://www.twitter.com/{{usedby}}" target="_blank">@{{usedby}}</a></li>
             </ul>
             <ul>
                 <li><a href="https://maps.google.com/maps?q={{address}},{{city}},{{state}}" target="_blank">View in Google Maps</a></li>
