@@ -6,8 +6,7 @@
 
 ### To do:
 1. Make Google Form to submit a spot
-2. Add all the old spots.
-3. Change categories to more meetup relevant things.
+2. Change categories to more meetup relevant things.
 
 # Hi!
 
