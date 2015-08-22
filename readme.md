@@ -1,12 +1,8 @@
 # Hello MaptimeLA
 
 ### How to use:
-1. Add spots to this [spreadsheet](https://docs.google.com/spreadsheets/d/1vLlsF5cvWkAGhbw1ZsJb_e5J_UXUc0PnNBjkMRMXmH4/pubhtml)
-2. See it live [here](http://maptimela.github.io/hack-spots/)
-
-### To do:
-1. Make Google Form to submit a spot
-2. Change categories to more meetup relevant things.
+1. Add spots with this [form](https://docs.google.com/forms/d/1LQabwNUM6OY8Ul9z3hUb6PqngOdLuPyj8eTXehTfYb4/viewform) 
+2. When approved by admins, it will appear on this [spreadsheet](https://docs.google.com/spreadsheets/d/1vLlsF5cvWkAGhbw1ZsJb_e5J_UXUc0PnNBjkMRMXmH4/pubhtml) and you will see it live [here](http://maptimela.github.io/hack-spots/)
 
 # Hi!
 
