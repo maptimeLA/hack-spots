@@ -4,13 +4,8 @@
 1. Add spots with this [form](https://docs.google.com/forms/d/1LQabwNUM6OY8Ul9z3hUb6PqngOdLuPyj8eTXehTfYb4/viewform) 
 2. When approved by admins, it will appear on this [spreadsheet](https://docs.google.com/spreadsheets/d/1vLlsF5cvWkAGhbw1ZsJb_e5J_UXUc0PnNBjkMRMXmH4/pubhtml) and you will see it live [here](http://maptimela.github.io/hack-spots/)
 
-# Hi!
 
-![screenshot](https://raw.github.com/jlord/hack-spots/gh-pages/img/hackspotsss.png)
-
-This is the code for a website that shows the spots myself, my friends (or Twitter friends) have found to be excellent hacking spots around the whole wide world.
-
-### Fork -n- Go!
+### Thank you <3 Fork -n- Go!
 
 Here's a fun fact:
 
